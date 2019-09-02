@@ -4,8 +4,8 @@
       "id": 1,
       "message": "Changed hard drive on workstation 005",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "sam Smith"
+      "tech": "sam Smith",
+      "date": "2019-09-02T18:52:37.871Z"
     },
     {
       "id": 2,
@@ -34,13 +34,8 @@
       "lastName": "Smith"
     },
     {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
-      "firstName": "Ijeoma",
-      "lastName": "Nzekwe",
+      "firstName": "Remi",
+      "lastName": "Olagoke",
       "id": 4
     }
   ]

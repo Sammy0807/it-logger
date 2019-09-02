@@ -11,8 +11,7 @@ const TechListModal = ({ getTechs, tech: {techs, loading} }) => {
         // eslint-disable-next-line
     }, []);
 
-    return (
-        <div id="tech-list-modal" className="modal">
+    return (<div id="tech-list-modal" className="modal">
             <div className="modal-content">
                 <h4>Technician List</h4>
                 <ul className="collection">
@@ -23,8 +22,7 @@ const TechListModal = ({ getTechs, tech: {techs, loading} }) => {
                     ))}
                 </ul>
             </div>
-        </div>
-    );
+        </div>);
 };
 
 TechListModal.prototype = {
